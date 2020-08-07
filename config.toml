@@ -1,0 +1,35 @@
+baseurl = "https://nanx.me/hugo-tanka/"
+title = "robert's blog"
+author = "Robert Allaway"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-tanka"
+
+googleAnalytics = ""
+disqusShortname = ""
+disable_mathjax = false
+
+pygmentsstyle      = "vs"
+pygmentscodefences = true
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  sitename = "robert's blog"
+
+[[menu.main]]
+    name = "Home"
+    url = "https://github.io/allaway/robert-blog/"
+    weight = 1
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/allaway"
+    weight = 2
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/allawayr"
+    weight = 3
+[[menu.main]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 4
