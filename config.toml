@@ -5,7 +5,7 @@ canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
 
-googleAnalytics = ""
+googleAnalytics = "UA-174899905-1"
 disqusShortname = ""
 disable_mathjax = false
 
@@ -19,7 +19,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [[menu.main]]
     name = "Home"
-    url = "https://github.io/allaway/robert-blog/"
+    url = "https://allaway.netlify.app/"
     weight = 1
 [[menu.main]]
     name = "GitHub"
