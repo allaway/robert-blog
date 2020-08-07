@@ -1,4 +1,4 @@
-baseurl = "https://nanx.me/hugo-tanka/"
+baseurl = "https://allaway.netlify.app/"
 title = "robert's blog"
 author = "Robert Allaway"
 canonifyurls = true
