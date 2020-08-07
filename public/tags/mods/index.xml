@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mods on robert&#39;s blog</title>
-    <link>/tags/mods/</link>
+    <link>https://allaway.netlify.app/tags/mods/</link>
     <description>Recent content in mods on robert&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/mods/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://allaway.netlify.app/tags/mods/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mod your Gaggia Classic&#39;s Steam Knob</title>
-      <link>/post/gaggia-steam-mod/</link>
+      <link>https://allaway.netlify.app/post/gaggia-steam-mod/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/gaggia-steam-mod/</guid>
+      <guid>https://allaway.netlify.app/post/gaggia-steam-mod/</guid>
       <description>An oft-mentioned shortcoming of the Gaggia Classic is the crappy steam knob. It&amp;rsquo;s not ergonomic, can break, and is just not that good looking:
 Tools and Parts List: </description>
     </item>
