@@ -14,7 +14,7 @@ tags:
 
 An oft-mentioned shortcoming of the Gaggia Classic is the crappy steam knob. It's [not ergonomic](https://coffeeforums.co.uk/topic/9360-gaggia-classic-steam-knob/), [can break](https://www.reddit.com/r/espresso/comments/b7rozs/steam_knob_steam_lever_mods_gaggia_classic/), and is just not that good looking (modified from image by Guy Sie](https://www.flickr.com/photos/guysie/14620900604)):
 
-<img src="/post/2020-08-07-gaggia-steam-mod_files/14620900604_d70bef1ec8_k.jpg" alt="Gaggia classic and accessories." width="90%"/>" width="100%"/>
+<img src="/post/2020-08-07-gaggia-steam-mod_files/14620900604_d70bef1ec8_k.jpg" alt="Gaggia classic and accessories." width="90%"/>
 
 I was working on my Gaggia last week and cracked the knob trying to remove it. Instead of paying 20 bucks for a equally-crappy replacement, I decided I wanted to try and build a replacement. There are a few mods floating around out there, but they either don't appeal to my aesthetics, or there are no instructions on replicating what they've done. 
 
