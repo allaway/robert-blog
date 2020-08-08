@@ -17,7 +17,7 @@ An oft-mentioned shortcoming of the Gaggia Classic is the crappy steam knob. It'
 
 {{< figure src="/post/2020-08-08-gaggia-steam-mod.en_files/14620900604_d70bef1ec8_k.jpg" alt="bad steam knob" width="90%" attr="Modified from image by Guy Sie" attrlink="https://www.flickr.com/photos/guysie/14620900604" >}}
 
-I was working on my Gaggia last week and cracked the knob trying to remove it. Instead of paying 20 bucks for a equally-crappy replacement, I decided I wanted to try and build a replacement. There are a few mods floating around out there, but they either don't appeal to my aesthetics, or there are no instructions on replicating what they've done. 
+I was working on my 2014 Gaggia Classic last week and cracked the knob trying to remove it. Instead of paying 20 bucks for a equally-crappy replacement, I decided I wanted to try and build a replacement. There are a few mods floating around out there, but they either don't appeal to my aesthetics, or there are no instructions on replicating what they've done. 
 
 After looking at Gaggia parts diagrams, making some (somewhat) careful measurements, and spending more time browsing McMaster-Carr and many other similar parts sites than I care to admit, I came up with a solution that I thought would work. Specifically, I wanted to figure out something that would meet the following requirements: 
 
@@ -28,6 +28,7 @@ After looking at Gaggia parts diagrams, making some (somewhat) careful measureme
 + has enough clearance from the chassis of the Gaggia so that it isn't annoying to turn
 + is wide enough to fill most of the hole in the side of the chassis
 + at least semi-heat insulated; the brass steam valve gets hot!
++ uses off the shelf parts or is otherwise not crazy expensive
 
 As it turns out, the robotics hobby world has some 6mm D-shafts on motors, and they have lots of parts that follow consistent standards (and cross-standard adapters), so I came up with a few different possibilities for prototyping a new knob. After settling on one, I crossed my fingers, and placed an order. Two days later, I received the parts and spent a few minutes putting them together. Thankfully, the final product turned out as way better than I could have hoped for a prototype:
 
@@ -41,8 +42,7 @@ Want to build one yourself? Read on:
 
 {{< figure src="/post/2020-08-08-gaggia-steam-mod.en_files/20200807_121534(1).jpg" alt="" width="80%" >}}
 
-
-I ended up buying all of the parts from ServoCity. I have no affiliation with them - I didn't even know they existed a week ago - but they seemed to be a reliable place to order from and they had everything I needed - most importantly, hardware designed to join a 6mm D-shaft: 
+I ended up buying all of the parts from ServoCity. I have no affiliation with them - I didn't even know they existed a week ago - but they seemed to be a reliable place to order from and they had everything I needed - most importantly, hardware designed to join a 6mm D-shaft. This parts list cost approximately $30 bucks including shipping to Seattle:  
 
 + [6mm Bore Set Screw D-Hub (Tapped), 0.770" Pattern](https://www.servocity.com/6mm-bore-set-screw-d-hub-tapped-0-770-pattern/)
 + [0.750" Hub Spacer](https://www.servocity.com/0-750-hub-spacer/)
