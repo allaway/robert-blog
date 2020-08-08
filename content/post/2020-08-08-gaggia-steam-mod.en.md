@@ -57,7 +57,7 @@ You'll also need:
 + a 7/64" hex bit
 + a 3/32" hex bit
 + an extender if you are using a stubby screwdriver like mine - makes accessing the set screw a bit easier
-+ optional, but could be helpful if you need to reposition the steam valve: a pair of pliers with a smooth surface to avoid damaging the brass steam valve surface. I like my Knipex 86 03 180 for these sorts of delicate tasks, but any old pliers should get the job done
++ optional, but could be helpful if you need to reposition the steam valve: a pair of pliers with a smooth surface to avoid damaging the brass steam valve surface. I like my Knipex 86 03 180 for these sorts of delicate tasks, but any old pliers should get the job done (not pictured above)
 
 ## Instructions 
 
