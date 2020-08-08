@@ -29,7 +29,7 @@ After looking at Gaggia parts diagrams, making some (somewhat) careful measureme
 + is wide enough to fill most of the hole in the side of the chassis
 + at least semi-heat insulated; the brass steam valve gets hot!
 
-As it turns out, the robotics hobby world has some 6mm D-shafts on motors, and they have lots of parts that follow consistent standards (and cross-standard adaptors), so I came up with a few different possibilities for prototyping a new knob. After settling on one, I crossed my fingers, and placed an order. Two days later, I received the parts and spent a few minutes putting them together. Thankfully, the final product turned out as way better than I could have hoped for a prototype:
+As it turns out, the robotics hobby world has some 6mm D-shafts on motors, and they have lots of parts that follow consistent standards (and cross-standard adapters), so I came up with a few different possibilities for prototyping a new knob. After settling on one, I crossed my fingers, and placed an order. Two days later, I received the parts and spent a few minutes putting them together. Thankfully, the final product turned out as way better than I could have hoped for a prototype:
 
 {{< figure src="/post/2020-08-08-gaggia-steam-mod.en_files/20200807_164447.jpg" alt="new steam knob" width="90%" >}}
 
@@ -81,7 +81,7 @@ You're done!
 
 With this basic hardware (hub and spacer), I think one could easily mod this to use other knobby sorts of things. I have a few things I'd like to improve in a new iteration: 
 
-- better thermal insulation. This is the one thing the Gaggia knob does better. I thought that the large, airy metal pieces would disperse heat rapidly enoguh for it to remain cool to the touch, but in reality the metal bits get quite warm especially on a machine that's been on for a while. The rubber o-ring gets warm too - not too hot to touch - but would prefer if it was cooler. 
+- better thermal insulation. This is the one thing the Gaggia knob does better. I thought that the large, airy metal pieces would disperse heat rapidly enough for it to remain cool to the touch, but in reality the metal bits get quite warm especially on a machine that's been on for a while. The rubber o-ring gets warm too - not too hot to touch - but would prefer if it was cooler. 
 - grippier rubber. When the machine is hot, the o-ring can slide a little bit on the pulley. In practice, it's not really noticeable, but still would prefer it didn't happen at all. I am guessing this is a buna-n o-ring, and am planning on trying a silicone 2 inch I.D. o-ring to see if it works any better.
 - custom parts. I'd like it if the hub was a mm or two thinner, and if the d-bore was a little snugger of a fit on the valve shaft. I'd also like the pulley to have the exact number of holes (4) that I need, and no more. 
 - metric-headed bolts. No reason for this other than personal preference. 
