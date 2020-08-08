@@ -4,6 +4,7 @@ author = "Robert Allaway"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-tanka"
+relativeURLs = true
 
 googleAnalytics = "UA-174899905-1"
 disqusShortname = ""
@@ -23,11 +24,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 1
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/allaway"
+    url = "https://github.com/allaway/"
     weight = 2
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/allawayr"
+    url = "https://twitter.com/allawayr/"
     weight = 3
 [[menu.main]]
     name = "RSS"

@@ -2,23 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>robert&#39;s blog</title>
-    <link>https://allaway.netlify.app/</link>
+    <link>/</link>
     <description>Recent content on robert&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://allaway.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mod your Gaggia Classic&#39;s Steam Knob</title>
-      <link>https://allaway.netlify.app/post/gaggia-steam-mod/</link>
+      <link>/post/gaggia-steam-mod/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://allaway.netlify.app/post/gaggia-steam-mod/</guid>
-      <description>An oft-mentioned shortcoming of the Gaggia Classic is the crappy steam knob. It&amp;rsquo;s not ergonomic, can break, and is just not that good looking:
-Tools and Parts List: </description>
+      <guid>/post/gaggia-steam-mod/</guid>
+      <description>An oft-mentioned shortcoming of the Gaggia Classic is the crappy steam knob. It&amp;rsquo;s not ergonomic, can break, and is just not that good looking (modified from image by Guy Sie](https://www.flickr.com/photos/guysie/14620900604)):
+&amp;rdquo; width=&amp;quot;100%&amp;quot;/&amp;gt;
+I was working on my Gaggia last week and cracked the knob trying to remove it. Instead of paying 20 bucks for a equally-crappy replacement, I decided I wanted to try and build a replacement. There are a few mods floating around out there, but they either don&amp;rsquo;t appeal to my aesthetics, or there are no instructions on replicating what they&amp;rsquo;ve done.</description>
     </item>
     
   </channel>
