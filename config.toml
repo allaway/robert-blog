@@ -1,5 +1,5 @@
 theme = "harbor"
-baseURL = "https://allaway.netlify.app"
+baseURL = "https://allaway.netlify.app/"
 title = "robert's blog"
 author = "Robert Allaway"
 paginate = 3
