@@ -42,7 +42,7 @@ Want to build one yourself? Read on:
 
 {{< figure src="/post/2020-08-08-gaggia-steam-mod.en_files/20200807_121534(1).jpg" alt="" width="80%" >}}
 
-I ended up buying all of the parts from ServoCity. I have no affiliation with them - I didn't even know they existed a week ago - but they seemed to be a reliable place to order from and they had everything I needed - most importantly, hardware designed to join a 6mm D-shaft. This parts list cost approximately $30 bucks including shipping to Seattle:  
+I ended up buying all of the parts from ServoCity. I have no affiliation with them - I didn't even know they existed a week ago - but they seemed to be a reliable place to order from and they had everything I needed - most importantly, hardware designed to join a 6mm D-shaft. This parts list cost approximately $30 including shipping to Seattle:  
 
 + [6mm Bore Set Screw D-Hub (Tapped), 0.770" Pattern](https://www.servocity.com/6mm-bore-set-screw-d-hub-tapped-0-770-pattern/)
 + [0.750" Hub Spacer](https://www.servocity.com/0-750-hub-spacer/)
@@ -84,6 +84,6 @@ With this basic hardware (hub and spacer), I think one could easily mod this to 
 - better thermal insulation. This is the one thing the Gaggia knob does better. I thought that the large, airy metal pieces would disperse heat rapidly enough for it to remain cool to the touch, but in reality the metal bits get quite warm especially on a machine that's been on for a while. The rubber o-ring gets warm too - not too hot to touch - but would prefer if it was cooler. 
 - grippier rubber. When the machine is hot, the o-ring can slide a little bit on the pulley. In practice, it's not really noticeable, but still would prefer it didn't happen at all. I am guessing this is a buna-n o-ring, and am planning on trying a silicone 2 inch I.D. o-ring to see if it works any better.
 - custom parts. I'd like it if the hub was a mm or two thinner, and if the d-bore was a little snugger of a fit on the valve shaft. I'd also like the pulley to have the exact number of holes (4) that I need, and no more. 
-- metric-headed bolts. No reason for this other than personal preference. 
+- metric-headed bolts. No reason for this other than personal preference. Pan-head bolds also might look a little cleaner.
 
 I hope this was helpful! Please feel free to reach out on [twitter](https://www.twitter.org/allawayr) with any questions. 
