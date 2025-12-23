@@ -17,7 +17,7 @@ toc: no
 
 I listen to KEXP a lot. It's on in the background while I'm working, making coffee, cooking dinner, whatever. However, I no longer live in Seattle and wanted to bring KEXP into my life even more...Enter: the KEXP now playing display. A Raspberry Pi-powered RGB LED matrix shows whatever's currently playing on KEXP in real time, even when I'm not listening.
 
-{{< figure src="/post/2025-12-23-kexp-now-playing-display.en_files/kexp-display-1.jpg" alt="KEXP Now Playing Display showing current song" width="90%" >}}
+{{< figure src="/post/2025-12-23-kexp-now-playing-display.en_files/kexp-display-1.gif" alt="KEXP Now Playing Display showing current song" width="90%" >}}
 
 ## The Hardware Setup
 
