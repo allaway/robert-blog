@@ -25,7 +25,7 @@ A few years ago, my holiday project was setting up an LED matrix to display what
 
 ## The Software Approach
 
-I discovered KEXP's public API during some routine home networking projects and found that it's actually very easy to work with. The main endpoint I'm using is `https://api.kexp.org/v2/plays/`, which returns recently played tracks including the current one. Each response includes artist, song, album, show information, and a bunch of other metadata. The display logic is handled by the [rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) library. For text that's too long to fit on the display, I implemented scrolling. Artist names scroll on the top line, song titles in the middle, and show information on the bottom. Between sets, the display shows the current show and DJ, alternating every 20s with the best 64x32 rendition of the KEXP logo that I could come up with. The project was nearly entirely created with Claude Code (sonnet 4.5), with some loving tweaks from yours truly.
+I discovered KEXP's public API during some routine home networking projects and found that it's actually very easy to work with. The main endpoint I'm using is https://api.kexp.org/v2/plays/, which returns recently played tracks including the current one. Each response includes artist, song, album, show information, and a bunch of other metadata. The display logic is handled by the [rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) library. For text that's too long to fit on the display, I implemented scrolling. Artist names scroll on the top line, song titles in the middle, and show information on the bottom. Between sets, the display shows the current show and DJ, alternating every 20s with the best 64x32 rendition of the KEXP logo that I could come up with. The project was nearly entirely created with Claude Code (sonnet 4.5), with some loving tweaks from yours truly.
 
 {{< figure src="/post/2025-12-23-kexp-now-playing-display.en_files/kexp-display-2.gif" alt="KEXP display showing logo" width="90%" >}}
 
@@ -33,7 +33,7 @@ I discovered KEXP's public API during some routine home networking projects and 
 
 Each KEXP show has its own personality, so I wanted the display to reflect that. I created custom color palettes for each show, trying to match the vibe of each one. "Early" gets soft pastels. "Drive Time" gets traffic light colors. "Audioasis" gets moody PNW winter colors.
 
-I spent way too much time tweaking hex codes and testing them on the actual LED matrix, because colors that look good on a computer screen don't always translate well to LEDs. The result is a display that changes character throughout the day as different shows come on. When "The Morning Show" starts, the whole thing shifts to oranges and golds. When "Astral Plane" comes on late at night, it's all purples and cyans.
+I spent way too much time tweaking hex codes and testing them on the actual LED matrix, because colors that look good on a computer screen don't always translate well to LEDs. The result is a display that changes character throughout the day as different shows come on. When "The Morning Show" starts, the whole thing shifts to oranges and golds. When "Astral Plane" comes on late at night, it's all purples and cyans. [Check out the current color profiles](https://github.com/allaway/live-on-kexp/?tab=readme-ov-file#color-schemes) (and feel free to suggest better ones).
 
 ## Things I'd Like to Improve
 
