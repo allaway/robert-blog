@@ -24,7 +24,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   identifier = "about"
   name = "About"
   icon = "fas fa-user fa-lg"
-  url = "/about/"
+  url = "about"
   weight = 3
 
 [[params.nav]]
