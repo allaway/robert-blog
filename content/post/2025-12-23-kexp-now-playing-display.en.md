@@ -27,7 +27,7 @@ A few years ago, my holiday project was setting up an LED matrix to display what
 
 I discovered KEXP's public API during some routine home networking projects and found that it's actually very easy to work with. The main endpoint I'm using is `https://api.kexp.org/v2/plays/`, which returns recently played tracks including the current one. Each response includes artist, song, album, show information, and a bunch of other metadata. The display logic is handled by the [rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix) library. For text that's too long to fit on the display, I implemented scrolling. Artist names scroll on the top line, song titles in the middle, and show information on the bottom. Between sets, the display shows the current show and DJ, alternating every 20s with the best 64x32 rendition of the KEXP logo that I could come up with. The project was nearly entirely created with Claude Code (sonnet 4.5), with some loving tweaks from yours truly.
 
-{{< figure src="/post/2025-12-23-kexp-now-playing-display.en_files/kexp-display-2.jpg" alt="KEXP display showing logo" width="90%" >}}
+{{< figure src="/post/2025-12-23-kexp-now-playing-display.en_files/kexp-display-2.gif" alt="KEXP display showing logo" width="90%" >}}
 
 ## Color Schemes
 
