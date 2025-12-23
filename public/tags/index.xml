@@ -1,27 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tags on robert&#39;s blog</title>
-		<link>/tags/</link>
-		<description>Recent content in Tags </description>
-		<generator>Hugo -- gohugo.io</generator>
-		
-  		<language>en</language>
-		
-		<managingEditor>Page(/tags) (Robert Allaway)</managingEditor>
-    	
-  		<lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
-		
-		<atom:link href="/tags/" rel="self" type="application/rss+xml" />
-		
-		<item>
-			<title>Mod your Gaggia Classic&#39;s Steam Knob</title>
-			<link>/2020/08/08/2020-08-08-gaggia-steam-mod/</link>
-			<pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-			<guid>/2020/08/08/2020-08-08-gaggia-steam-mod/</guid>
-			<description>An oft-mentioned shortcoming of the Gaggia Classic is the crappy steam knob. It&amp;rsquo;s not ergonomic, can break, and is just not that good looking:
-   Modified from image by Guy Sie
-  I was working on my 2014 Gaggia Classic last week and cracked the knob trying to remove it. Instead of paying 20 bucks for a equally-crappy replacement, I decided I wanted to try and build a replacement.</description>
-		</item>
-      	
-	</channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on robert's blog</title><link>https://allaway.github.io/robert-blog/tags/</link><description>Recent content in Tags</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>Page(/tags) (Robert Allaway)</managingEditor><lastBuildDate>Tue, 23 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://allaway.github.io/robert-blog/tags/" rel="self" type="application/rss+xml"/><item><title>Building a KEXP Now Playing Display</title><link>https://allaway.github.io/robert-blog/2025/12/23/2025-12-23-kexp-now-playing-display/</link><pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate><guid>https://allaway.github.io/robert-blog/2025/12/23/2025-12-23-kexp-now-playing-display/</guid><description>I listen to KEXP a lot. It&amp;rsquo;s on in the background while I&amp;rsquo;m working, making coffee, cooking dinner, whatever. However, I no longer live in Seattle and wanted to bring KEXP into my life even more&amp;hellip;Enter: the KEXP now playing display. A Raspberry Pi-powered RGB LED matrix shows whatever&amp;rsquo;s currently playing on KEXP in real time, even when I&amp;rsquo;m not listening.
+The Hardware Setup A few years ago, my holiday project was setting up an LED matrix to display what flights were passing by our house based on the great project from Collen Waddell: FlightTracker.</description></item><item><title>2020 Sophia Cider</title><link>https://allaway.github.io/robert-blog/2020/12/18/2020-12-18-2020-sophia-cider/</link><pubDate>Fri, 18 Dec 2020 00:00:00 +0000</pubDate><guid>https://allaway.github.io/robert-blog/2020/12/18/2020-12-18-2020-sophia-cider/</guid><description>Sound Homebrew Supply often does a yearly sale of fresh-pressed cider for fermenting, but it&amp;rsquo;s typically a blend of eating or baking apples (e.g. Jonagold, Gravenstein, etc). Nothing wrong with that, but I&amp;rsquo;ve long wanted to try my hand at fermenting with true cider apples. This year, they (unfortunately, due to a cidery closure), got access to a couple of blends made true cider apples, and put them up for sale.</description></item><item><title>Mod your Gaggia Classic's Steam Knob</title><link>https://allaway.github.io/robert-blog/2020/08/08/2020-08-08-gaggia-steam-mod/</link><pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate><guid>https://allaway.github.io/robert-blog/2020/08/08/2020-08-08-gaggia-steam-mod/</guid><description>An oft-mentioned shortcoming of the Gaggia Classic is the crappy steam knob. It&amp;rsquo;s not ergonomic, can break, and is just not that good looking:
+Modified from image by Guy Sie
+I was working on my 2014 Gaggia Classic last week and cracked the knob trying to remove it. Instead of paying 20 bucks for a equally-crappy replacement, I decided I wanted to try and build a replacement. There are a few mods floating around out there, but they either don&amp;rsquo;t appeal to my aesthetics, or there are no instructions on replicating what they&amp;rsquo;ve done.</description></item></channel></rss>
