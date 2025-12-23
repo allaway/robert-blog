@@ -1,4 +1,22 @@
+# R-related (legacy)
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# Hugo build artifacts
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

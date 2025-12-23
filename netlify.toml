@@ -1,3 +1,8 @@
-[build.environment]
-  HUGO_ENV = "production"
-  HUGO_VERSION = "0.74.3"
+# This site has been migrated to GitHub Pages
+# Redirect all traffic to the new location
+
+[[redirects]]
+  from = "/*"
+  to = "https://allaway.github.io/robert-blog/:splat"
+  status = 301
+  force = true
